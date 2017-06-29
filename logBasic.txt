@@ -1,0 +1,1 @@
+How many days in a year?, 365, How many hours in a day?, 24, 
